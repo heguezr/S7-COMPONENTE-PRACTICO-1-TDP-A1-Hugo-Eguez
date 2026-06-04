@@ -1,0 +1,7 @@
+.cards-container {
+  display: flex;
+  justify-content: center;
+  padding: 40px 20px;
+  /* Espacio en la parte inferior para que el Footer fijo no tape la tarjeta */
+  margin-bottom: 60px; 
+}
